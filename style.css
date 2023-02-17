@@ -1,0 +1,149 @@
+
+body{
+    background-color: rgba(24, 22, 22, 0.877);
+}
+
+.kuj{
+    height: 50px;
+    width: 80%;
+ 
+    align-items: center;
+    background-color: rgba(234, 240, 235, 0.836);
+    border-radius: 0px 30px 0px 30px ;
+    padding: 5px;
+    text-align: center;
+    color: rgb(241, 15, 166);
+
+    font-weight: 1000px;
+    box-shadow: 2px 1.5px 2px rgb(22, 1, 1);
+
+    
+
+}
+
+.header{
+    width: 100%;
+    height: 100px;
+    position: fixed;
+    
+    top: 0;
+    width: 100%
+ 
+}
+.luj{
+    margin-left: 20%;
+
+}
+.inner{
+    height:auto;
+    padding: 30px;
+    background-color: rgb(235, 12, 123);
+
+ 
+    
+    
+    background-position: fixed;
+   
+   
+}
+.puj{
+    font-weight: 1000;
+    font-size: 30px;
+    color: rgb(235, 12, 123);
+    margin-left: 45%;
+
+
+}
+#write{
+    align-items: center;
+}
+.me{
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 700;
+    color: white;
+    box-shadow: 2px 1.5px 2px rgb(22, 1, 1);
+    border-radius: 0px 10px 0px 10px ;
+    margin-left:10%;
+    background-color:rgb(235, 12, 123);
+    padding: 30px;
+    
+}
+
+.row middle{
+    padding: 20px;
+}
+
+.navbar{
+    margin-top: 10px;
+    margin-bottom: 30px;
+    background-color: rgb(235, 12, 123);
+    
+}
+
+
+.fon{
+    font-weight: 1000;
+    
+    color: aliceblue;
+}
+
+#identity{
+    height: auto;
+    width: 100%;
+    background-color: white;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.huj{
+    margin-left: 50%;
+    padding: 20px;
+    margin-top: 30px;
+    font-weight: 900;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.p1{
+    height: 60px;
+    text-align: center;
+    width: 400px;
+    box-shadow: 2px 1.5px 2px rgb(22, 1, 1);
+    border-radius: 0px 10px 0px 10px ;
+    margin-top: 20px;
+    margin-left: 40%;
+    font-weight: 900;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    padding: 10px;
+    margin-right: 20px;
+    background-color: rgb(235, 12, 123);
+    margin-bottom: 50px;
+    margin-top: 100px;
+}
+.puj2{
+    font-weight: 1000;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    margin-left: 45%;
+
+
+}
+#head{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.abt{
+    margin-top: 30px;
+}
+
+
+.footer{
+    margin-top: 50px;
+    margin-bottom: 80px;
+    height: 100px;
+    background-color: aliceblue;
+    font-weight: 800px;
+    padding: 30px;
+}
